@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
     if (license !== "none") {
-        return `![Github license](https://img.shields.io/badge/dynamic/toml/license-${license}-blue.svg)`;
+        return `![Github license](https://img.shields.io/badge/license-${license}-blue.svg)`;
 
     }
     return "";
@@ -29,11 +29,17 @@ ${renderLicenseBadge(data.license)}
 ${data.description}
 ## Table of Contents
 * [Description](#description)
+
 * [Features](#features)
+
 * [Languages & Dependencies](#languagesanddependencies)
+
 * [How to Use This Application](#HowtoUseThisApplication)
+
 * [Contributors](#contributors)
+
 * [Testing](#testing)
+
 * [Questions](#questions)
 ## Features
 ${data.features}
@@ -42,9 +48,9 @@ ${data.require}
 ## How to Use This Application:
 ${data.usage}
 ## Contact-Me
-* [Name - ](${data.yourname})
-* [Email - ](${data.email})
-* [GitHub - ](${data.creator})
+* Name - (${data.yourname})
+* Email - [${data.email}]
+* GitHub - [${data.creator}]
 ## Contributors
 ${data.contributors}
 ## Testing
