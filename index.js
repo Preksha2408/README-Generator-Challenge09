@@ -28,6 +28,7 @@ const questions = [
         type: 'input',
         message: 'What is your Project title?',
         name: 'title',
+        default: 'README GENERATOR',
     },
     {
         type: 'input',
