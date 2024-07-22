@@ -1,8 +1,9 @@
-# 
-![Github license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
+# Readme Generator
+![Github license](https://img.shields.io/badge/dynamic/toml)
 ## Description
-
+Generate Readme
 ## Table of Contents
+* [Description](#description)
 * [Features](#features)
 * [Languages & Dependencies](#languagesanddependencies)
 * [How to Use This Application](#HowtoUseThisApplication)
@@ -10,15 +11,21 @@
 * [Testing](#testing)
 * [Questions](#questions)
 ## Features
-
+Git clone it
 ## Languages & Dependencies
 npm i
 ## How to Use This Application:
 undefined
+## Contact-Me
+* [Name - ](Preksha)
+* [Email - ](prek.ps37@gmail.com)
+* [GitHub - ](Preksha2408)
 ## Contributors
-
+Contact me
 ## Testing
 npm test
+## Demo
+Checkout my demonstration of this app [here]
 ## Questions
-Please send your questions [here](mailto:prek.ps37@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Preksha Sangvikar](https://github.com/Preksha Sangvikar).
+Please send your questions [here](mailto:prek.ps37@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Preksha2408](https://github.com/Preksha2408).
   
