@@ -1,7 +1,7 @@
-# ReadMe generator
+# Readme Generator
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-Generating readme file
+Generates a readme file while taking in user input
 ## Table of Contents
 * [Description](#description)
 
