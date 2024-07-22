@@ -1,7 +1,7 @@
 # Readme Generator
-![Github license](https://img.shields.io/badge/dynamic/toml)
+![Github license](https://img.shields.io/badge/dynamic/toml/license-MIT-blue.svg)
 ## Description
-Generate Readme
+Generates Readme
 ## Table of Contents
 * [Description](#description)
 * [Features](#features)
@@ -11,7 +11,7 @@ Generate Readme
 * [Testing](#testing)
 * [Questions](#questions)
 ## Features
-Git clone it
+Just Git clone 
 ## Languages & Dependencies
 npm i
 ## How to Use This Application:
