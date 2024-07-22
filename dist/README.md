@@ -1,27 +1,33 @@
-# Readme Generator
-![Github license](https://img.shields.io/badge/dynamic/toml/license-MIT-blue.svg)
+# ReadMe generator
+![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-Generates Readme
+Generating readme file
 ## Table of Contents
 * [Description](#description)
+
 * [Features](#features)
+
 * [Languages & Dependencies](#languagesanddependencies)
+
 * [How to Use This Application](#HowtoUseThisApplication)
+
 * [Contributors](#contributors)
+
 * [Testing](#testing)
+
 * [Questions](#questions)
 ## Features
-Just Git clone 
+Just Git clone it
 ## Languages & Dependencies
 npm i
 ## How to Use This Application:
 undefined
 ## Contact-Me
-* [Name - ](Preksha)
-* [Email - ](prek.ps37@gmail.com)
-* [GitHub - ](Preksha2408)
+* Name - (Preksha)
+* Email - [prek.ps37@gmail.com]
+* GitHub - [Preksha2408]
 ## Contributors
-Contact me
+Contact me 
 ## Testing
 npm test
 ## Demo
