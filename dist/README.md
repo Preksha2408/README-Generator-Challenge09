@@ -1,7 +1,10 @@
-# Readme Generator
+# README GENERATOR
 ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+## License
+This project is licensed under the MIT license. For more information, see the [license link](https://opensource.org/licenses/MIT).
+https://opensource.org/licenses/MIT
 ## Description
-Generates a readme file while taking in user input
+Generates a readme file on user input
 ## Table of Contents
 * [Description](#description)
 
@@ -17,7 +20,7 @@ Generates a readme file while taking in user input
 
 * [Questions](#questions)
 ## Features
-Just Git clone it
+Just git clone it
 ## Languages & Dependencies
 npm i
 ## How to Use This Application:
@@ -27,7 +30,7 @@ undefined
 * Email - [prek.ps37@gmail.com]
 * GitHub - [Preksha2408]
 ## Contributors
-Contact me 
+contact me 
 ## Testing
 npm test
 ## Demo
