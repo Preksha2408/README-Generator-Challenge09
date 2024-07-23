@@ -71,7 +71,8 @@ ${data.contributors}
 ## Testing
 ${data.test}
 ## Demo
-Checkout my demonstration of this app on my youtube channel [here](https://youtu.be/XCKMJ9ERqjc)
+Checkout my demonstration of this app [here](https://drive.google.com/file/d/113cnQITmi-1IRoYNYAh09DjDfAwdnMBE/view)
+
 ## Questions
 Please send your questions [here](mailto:${data.email}?subject=[GitHub]%20Dev%20Connect) or visit [github/${data.creator}](https://github.com/${data.creator}).
   
