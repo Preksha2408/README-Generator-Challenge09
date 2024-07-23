@@ -4,7 +4,7 @@
 This project is licensed under the MIT license. For more information, see the [license link](https://opensource.org/licenses/MIT).
 https://opensource.org/licenses/MIT
 ## Description
-Readme generator takes in user input and generates readme file
+Readme Generator takes in userinput and generates a read me file accordingly 
 ## Table of Contents
 * [Description](#description)
 
@@ -20,7 +20,7 @@ Readme generator takes in user input and generates readme file
 
 * [Questions](#questions)
 ## Features
-just git clone i
+Just git clone it 
 ## Languages & Dependencies
 npm i
 ## How to Use This Application:
@@ -30,11 +30,12 @@ undefined
 * Email - [prek.ps37@gmail.com]
 * GitHub - [Preksha2408]
 ## Contributors
-contact me
+Contact me 
 ## Testing
 npm test
 ## Demo
 Checkout my demonstration of this app [here](https://drive.google.com/file/d/113cnQITmi-1IRoYNYAh09DjDfAwdnMBE/view)
+
 ## Questions
 Please send your questions [here](mailto:prek.ps37@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Preksha2408](https://github.com/Preksha2408).
   
