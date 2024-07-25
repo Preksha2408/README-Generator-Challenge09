@@ -13,9 +13,7 @@ https://opensource.org/licenses/MIT
 * [Languages & Dependencies](#languagesanddependencies)
 
 * [How to Use This Application](#HowtoUseThisApplication)
-##  ![To run the index.js](./Running-index.js.png)
 
-## ![To run the test](./test-completed.png)
 * [Contributors](#contributors)
 
 * [Testing](#testing)
@@ -26,7 +24,10 @@ Go to Readme
 ## Languages & Dependencies
 npm i
 ## How to Use This Application:
-undefined
+*  ![To run the index.js](./Running-index.js.png)
+
+*  ![To run the test](./test-completed.png)
+
 ## Contact-Me
 * Name - (Preksha)
 * Email - [prek.ps37@gmail.com]
