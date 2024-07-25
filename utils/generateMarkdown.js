@@ -50,9 +50,8 @@ ${data.description}
 * [Languages & Dependencies](#languagesanddependencies)
 
 * [How to Use This Application](#HowtoUseThisApplication)
-##  ![To run the index.js](./Images/Running-index.js.png)
 
-## ![To run the test](./Images/images/test-completed.png)
+
 * [Contributors](#contributors)
 
 * [Testing](#testing)
