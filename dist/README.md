@@ -4,7 +4,7 @@
 This project is licensed under the MIT license. For more information, see the [license link](https://opensource.org/licenses/MIT).
 https://opensource.org/licenses/MIT
 ## Description
-Readme Generator takes in userinput and generates a read me file accordingly 
+
 ## Table of Contents
 * [Description](#description)
 
@@ -13,14 +13,16 @@ Readme Generator takes in userinput and generates a read me file accordingly
 * [Languages & Dependencies](#languagesanddependencies)
 
 * [How to Use This Application](#HowtoUseThisApplication)
+##  ![To run the index.js](./Images/Running-index.js.png)
 
+## ![To run the test](./Images/images/test-completed.png)
 * [Contributors](#contributors)
 
 * [Testing](#testing)
 
 * [Questions](#questions)
 ## Features
-Just git clone it 
+Go to Readme 
 ## Languages & Dependencies
 npm i
 ## How to Use This Application:
@@ -30,7 +32,7 @@ undefined
 * Email - [prek.ps37@gmail.com]
 * GitHub - [Preksha2408]
 ## Contributors
-Contact me 
+Contact Me 
 ## Testing
 npm test
 ## Demo
