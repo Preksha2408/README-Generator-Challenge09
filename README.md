@@ -24,9 +24,9 @@ Go to Readme
 ## Languages & Dependencies
 npm i
 ## How to Use This Application:
-*  ![To run the index.js](./Running-index.js.png)
+*  ![To run the index.js](./Images/Running-index.js.png)
 
-*  ![To run the test](./test-completed.png)
+*  ![To run the test](./Images/images/test-completed.png)
 
 ## Contact-Me
 * Name - (Preksha)
