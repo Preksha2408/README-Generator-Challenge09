@@ -4,7 +4,7 @@
 This project is licensed under the MIT license. For more information, see the [license link](https://opensource.org/licenses/MIT).
 https://opensource.org/licenses/MIT
 ## Description
-
+Readme generator takes in user input and creates a professional readme 
 ## Table of Contents
 * [Description](#description)
 
@@ -14,30 +14,28 @@ https://opensource.org/licenses/MIT
 
 * [How to Use This Application](#HowtoUseThisApplication)
 
+
 * [Contributors](#contributors)
 
 * [Testing](#testing)
 
 * [Questions](#questions)
 ## Features
-Go to Readme 
+Just git clone it t
 ## Languages & Dependencies
 npm i
 ## How to Use This Application:
-*  ![To run the index.js](./Running-index.js.png)
-
-*  ![To run the test](./test-completed.png)
-
+undefined
 ## Contact-Me
 * Name - (Preksha)
 * Email - [prek.ps37@gmail.com]
 * GitHub - [Preksha2408]
 ## Contributors
-Contact Me 
+
 ## Testing
 npm test
 ## Demo
-Checkout my demonstration of this app [here](https://drive.google.com/file/d/113cnQITmi-1IRoYNYAh09DjDfAwdnMBE/view)
+Checkout my demonstration of this app [here](https://drive.google.com/file/d/1bdyK6JNgGGqBlEaW3v3WXX2MKVnp0Ci-/view)
 
 ## Questions
 Please send your questions [here](mailto:prek.ps37@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/Preksha2408](https://github.com/Preksha2408).
